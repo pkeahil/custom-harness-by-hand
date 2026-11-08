@@ -1,0 +1,38 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful assistant."
+  },
+  {
+    "role": "user",
+    "content": "hello"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! How can I help you today?"
+  },
+  {
+    "role": "user",
+    "content": "how are you today?"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm doing well, thank you for asking! How are you doing?"
+  },
+  {
+    "role": "user",
+    "content": "what was the first message I sent?"
+  },
+  {
+    "role": "assistant",
+    "content": "The first message you sent was \"hello\"."
+  },
+  {
+    "role": "user",
+    "content": "print list of my messages"
+  },
+  {
+    "role": "assistant",
+    "content": "Here is the list of your messages:\n\n1. hello\n2. how are you today?\n3. what was the first message I sent?\n4. print list of my messages"
+  }
+]
